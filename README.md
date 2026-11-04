@@ -25,7 +25,7 @@ Designed a **competency-based career development framework** for **AWS Data Engi
 ### Performance Assessment
 ![Performance Assessment](Skills%20Assessment%20%26%20Success%20Metrics.png)
 
-## Project Deliverable: 
+## Project Deliverable
 * Complete Deck [AWS Data Engineer Career Path Presentation (PDF)](AllCloud%20AWS%20Data%20Enginner%20Career%20Path_Prashasti%20Tripathi.pdf)
 
 
