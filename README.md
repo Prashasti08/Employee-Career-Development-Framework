@@ -1,27 +1,27 @@
-Employee Career Development Framework
+# Employee Career Development Framework
 
-Project Overview
+## Project Overview
+Designed a **competency-based career development framework** for **AWS Data Engineers** to guide employee development across **3 career seniority levels**
 
-Designed a competency-based career development framework for AWS Data Engineers to clarify career progression, identify skill gaps, and guide targeted employee development across 3 career levels.
+## Methodology
+**Approach:** Competency-Based Development (ADDIE-aligned)
 
-Methodology
+- **Competency Mapping:** Mapped technical and behavioral skills to career levels.
+- **Performance Assessment:** Defined proficiency indicators to evaluate career readiness.
+- **Development Planning:** Identified training, certifications, and mentorship pathways.
 
-Competency-Based Development | ADDIE-Aligned Design
+## Tools: Canva
 
-Competency Mapping: Defined technical and behavioral skills across career levels.
+## Project Preview
 
-Performance Assessment: Established proficiency indicators and success metrics.
-
-Development Planning: Outlined training, certification, and mentorship pathways.
-
-Tool
-
-Canva
-
-Project Preview
+**Career Progression**
 
 
 
+## Skills
+Talent Development | Learning & Development | Competency Mapping | Career Pathing | Performance Assessment | Individual Development Planning
+
+## Project Deliverable
 * [AWS Data Engineer Career Path Presentation (PDF)](AllCloud%20AWS%20Data%20Enginner%20Career%20Path_Prashasti%20Tripathi.pdf)
 
 
