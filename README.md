@@ -1,7 +1,7 @@
 # Employee Career Development Framework
 
 ## Project Overview
-Designed a **competency-based career development framework** for **AWS Data Engineers** to guide employee development across **3 career seniority levels**
+Designed a **competency-based career development framework** for **AWS Data Engineers** to guide employee development across **3 career levels**
 
 ## Methodology
 **Approach:** Competency-Based Development (ADDIE-aligned)
