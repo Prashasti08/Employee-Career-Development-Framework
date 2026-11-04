@@ -10,14 +10,15 @@ Designed a **competency-based career development framework** for **AWS Data Engi
 - **Performance Assessment:** Defined proficiency indicators to evaluate career readiness.
 - **Development Planning:** Identified training, certifications, and mentorship pathways.
 
-## Tools: Canva
+## Tools: 
+ Canva and Gamma
 
 ## Project Preview
 
 
 ## Project Preview
 
-![Career Progression](slides/career-progression.png)
+![Career Progression](slides/Career%20Progression.png)
 
 ### Competency Mapping
 ![Competency Mapping](slides/slide7.png)
