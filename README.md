@@ -16,18 +16,18 @@ Designed a **competency-based career development framework** for **AWS Data Engi
 ## Project Preview
 
 
-## Project Preview
 
 ## Project Preview
 
 ### Career Progression
-![Career Progression](slides/Career%20Progression.png)
+![Career Progression](Career%20Progression.png)
 
 ### Competency Mapping
-![Competency Mapping](slides/Competency%20Mapping%20%26%20Performance%20Indicators.png)
+![Competency Mapping](Competency%20Mapping%20%26%20Performance%20Indicators.png)
 
 ### Performance Assessment
-![Performance Assessment](slides/Skills%20Assessment%20%26%20Success%20Metrics.png)
+![Performance Assessment](Skills%20Assessment%20%26%20Success%20Metrics.png)
+
 
 
 
