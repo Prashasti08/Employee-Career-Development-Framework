@@ -1,13 +1,26 @@
-# Skill-Based Career Path for AWS Data Engineers
+Employee Career Development Framework
 
-## Project Summary
+Project Overview
 
-Designed a 5+ year career path for **AWS Data Engineers** at AllCloud. Developed an actionable roadmap for employee development integrating essential skills and measurable success metrics for each stage
+Designed a competency-based career development framework for AWS Data Engineers to clarify career progression, identify skill gaps, and guide targeted employee development across 3 career levels.
 
-## Skills
-Competency Mapping, Job Analysis, Talent Development and Management, Canva, AI tools
+Methodology
 
-## Project Deliverable
+Competency-Based Development | ADDIE-Aligned Design
+
+Competency Mapping: Defined technical and behavioral skills across career levels.
+
+Performance Assessment: Established proficiency indicators and success metrics.
+
+Development Planning: Outlined training, certification, and mentorship pathways.
+
+Tool
+
+Canva
+
+Project Preview
+
+
 
 * [AWS Data Engineer Career Path Presentation (PDF)](AllCloud%20AWS%20Data%20Enginner%20Career%20Path_Prashasti%20Tripathi.pdf)
 
