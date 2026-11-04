@@ -28,5 +28,8 @@ Designed a **competency-based career development framework** for **AWS Data Engi
 ## Project Deliverable
 📄 **[View Full Career Development Framework (PDF)](Latest_AllCloud.pdf)**
 
+## Skills
+
+Talent Development | Learning & Development | Competency Mapping | Career Pathing | Performance Assessment | Individual Development Planning
 
 
